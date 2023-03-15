@@ -6,15 +6,29 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Ygraeria Kykladon</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="ΥΓΡΑΕΡΙΑ ΚΥΚΛΑΔΩΝ Α.Β.Ε.Ε." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          ΕΜΠΟΡΙΑ ΥΓΡΑΕΡΙΟΥ
         </p>
+
+        <p className="description">
+          ΒΟΘΩΝΑΣ Τ.Θ. 48, Τ.Κ. 84600, ΜΥΚΟΝΟΣ
+        </p>
+
+        <p className="description">
+          Τηλ.: 2289022168 & 2289028030 - Fax: 2289028031
+        </p>
+
+        <p className="description">
+          email: info@ygraeria.com
+        </p>
+
+
       </main>
 
       <Footer />
